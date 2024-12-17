@@ -1,0 +1,34 @@
+_repo: A-Moslem-seeker-after-God-b-showing-Islam-at-its-best-in-the-life-and-teaching-of-al-Ghazali-__74846
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zwemer, Samuel Marinus
+    aliases:
+    - Zwemer, S. M. (Samuel Marinus)
+    - Zwemer, Samuel M.
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '34415'
+    url: http://www.gutenberg.org/2009/agents/34415
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Marinus_Zwemer
+description: ''
+gutenberg_issued: '2024-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74846'
+language: en
+pgterms:marc904: https://archive.org/details/moslemseekerafte00zwemrich
+pgterms:marc905: 20230420172948zwemer
+pgterms:marc906: '1920'
+pgterms:marc907: us
+production_note: Aaron Adrignola and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bFleming H. Revell Company, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A Moslem seeker after God : $b showing Islam at its best in the life and teaching
+  of al-Ghazali, mystic and theologian of the eleventh century'
+url: http://www.gutenberg.org/ebooks/74846
