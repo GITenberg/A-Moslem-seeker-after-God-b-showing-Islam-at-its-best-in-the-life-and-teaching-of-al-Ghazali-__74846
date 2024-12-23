@@ -1,5 +1,8 @@
 _repo: A-Moslem-seeker-after-God-b-showing-Islam-at-its-best-in-the-life-and-teaching-of-al-Ghazali-__74846
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74846-h/images/cover.jpg
 creator:
   author:
     agent_name: Zwemer, Samuel Marinus
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34415
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Marinus_Zwemer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74846#A-Moslem-seeker-after-God-b-showing-Islam-at-its-best-in-the-life-and-teaching-of-al-Ghazali-_
 gutenberg_issued: '2024-12-06'
 gutenberg_type: Text
 identifiers:
